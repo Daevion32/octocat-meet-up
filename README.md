@@ -1,5 +1,5 @@
 # RIDMI
 
-✍️ Nombre del equipo: 
+✍️ Nombre del equipo: Troncas
 
-✍️ Integrantes del equipo: 
+✍️ Integrantes del equipo: Patricia, Andrea, Cristina, Francisco, Ali
